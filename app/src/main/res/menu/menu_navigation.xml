@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/inicioItem"
+        android:icon="@drawable/ic_home"
+        android:title="@string/inicio" />
+    <item
+        android:id="@+id/buscarItem"
+        android:icon="@drawable/ic_search"
+        android:title="@string/search" />
+    <item
+        android:id="@+id/preguntaItem"
+        android:icon="@drawable/ic_question"
+        android:title="@string/preguntas" />
+    <item
+        android:id="@+id/navegarItem"
+        android:icon="@drawable/ic_language"
+        android:title="@string/navegar" />
+    <item
+        android:id="@+id/salirItem"
+        android:icon="@drawable/ic_powe"
+        android:title="@string/salir" />
+
+</menu>

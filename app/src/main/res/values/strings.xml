@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NavegationBottom</string>
+    <string name="inicio">Inicio</string>
+    <string name="search">Buscar</string>
+    <string name="preguntas">Preguntas</string>
+    <string name="navegar">Navegar</string>
+    <string name="salir">Salir</string>
+</resources>
